@@ -1,0 +1,45 @@
+.card-f1 {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+    border-radius: 7px;
+    background: #e6fffb;
+  }
+  .card-f2 {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+    border-radius: 7px;
+    background: #e6fffb;
+  }
+  .card-f3 {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+    border-radius: 7px;
+    background: #e6fffb;
+    
+  }
+  .card-f4 {
+    border-radius: 20px;
+    background: #f0f0f0;
+  }
+  
+  .card-Line {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+    margin-top: 25px;
+    border-radius: 10px;
+  }
+  
+  .progress-m1{
+    margin-top: 25px;
+  }
+
+  .desc{
+    border-left: 3px solid red;
+    padding-left: 5px
+  }
+  
+  
+  
